@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
     <loc>/linea-1/</loc>
   </url>
   
@@ -23,23 +19,27 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
   </url>
   
   <url>
-    <loc>/linea-1/publicaciones/</loc>
+    <loc>/linea-1/publications/</loc>
   </url>
   
   <url>
-    <loc>/linea-2/publicaciones/</loc>
+    <loc>/linea-2/publications/</loc>
   </url>
   
   <url>
-    <loc>/linea-3/publicaciones/</loc>
+    <loc>/linea-3/publications/</loc>
   </url>
   
   <url>
-    <loc>/linea-4/publicaciones/</loc>
+    <loc>/linea-4/publications/</loc>
   </url>
   
   <url>
