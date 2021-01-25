@@ -1291,10 +1291,10 @@ input, select, textarea {
 			}
 
 		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
-			line-height: 5.5rem;
-			border: solid 1px #ffffff;
+			width: 5rem;
+			height: 5rem;
+			line-height: 5rem;
+			border: solid 3px #ffffff;
 			border-radius: 100%;
 		}
 
@@ -1358,13 +1358,13 @@ input, select, textarea {
 
 				#header nav ul li a {
 					display: block;
-					min-width: 7.5rem;
-					height: 2.75rem;
-					line-height: 2.75rem;
+					min-width: 12rem;
+					height: auto;
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
-					letter-spacing: 0.2rem;
-					font-size: 0.8rem;
+					letter-spacing: 0.1rem;
+					text-align: center;
+					font-size: 0.9rem;
 					border-bottom: 0;
 				}
 
@@ -1441,9 +1441,9 @@ input, select, textarea {
 				}
 
 			#header .logo {
-				width: 4.75rem;
-				height: 4.75rem;
-				line-height: 4.75rem;
+				width: 2.75rem;
+				height: 2.75rem;
+				line-height: 2.75rem;
 			}
 
 				#header .logo .icon:before {
