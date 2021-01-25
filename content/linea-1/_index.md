@@ -1,6 +1,7 @@
 ---
-description: Las dimensiones socioeconómicas del conflicto
-icon: flag
-title: Línea 1
+background: images/linea1.jpg
+description: Line 1
+icon: chart-bar
+title: 1. Inequality, Conflict and Cohesion
 ---
 
