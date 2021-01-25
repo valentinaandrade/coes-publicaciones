@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "es-cl"
+title = "COES-Publicaciones"
+theme = "hugo-theme-dimension"
