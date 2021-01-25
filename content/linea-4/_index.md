@@ -1,6 +1,7 @@
 ---
-description: Geografías del conflicto social y la cohesión
-icon: flag
-title: Línea 4
+background: images/linea4.jpg
+description: Line 4
+icon: compass
+title: 4.Geographies of Conflict and Cohesion
 ---
 
