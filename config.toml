@@ -1,4 +1,4 @@
-baseURL = "https://coes-publicaciones.netlify.app"
+baseURL = "https://coes-publications.netlify.app"
 languageCode = "en-US"
 title = "COES-Publicaciones"
 theme = "hugo-theme-dimension"
