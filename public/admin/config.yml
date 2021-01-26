@@ -19,7 +19,7 @@ collections:
       - { label: 'Background', name: 'background', widget: 'image' }
   - name: 'pages'
     label: 'Pages'
-    folder: 'content/'
+    folder: '/content/'
     create: true
     slug: '{{slug}}'
     editor:
