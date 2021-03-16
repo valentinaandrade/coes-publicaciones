@@ -33,6 +33,48 @@ title: Publications
 
 ## No-ISI Publications
 
+- Angelcos, N.; Roca, A. (2020)	Pandemia, ética del cuidado y democracia en Chile.	Cuadernos de Teoría Social
+
+- Atria, J.; Castillo; J.; Maldonado, L.; Ramirez, S.	(2020) Studying meritocracy in an unequal context: Perspectives from Chilean scholars.	Universum
+
+- Atria, J.; Hernandez, J. (2020)	Prácticas de distinción, justificación y reproducción de la elite: evidencia de los ámbitos financiero y tributario en Chile.	Revista Española de Sociología
+
+- Figueiredo, A., Madero, C., Cano, D. (2020)	The impact of a multicultural exchange between indigenous and non-indigenous history teachers for students’ attitudes: preliminary evidence from a pilot study in Chile.	Multicultural Education Review
+
+- Sharim, D.; Ropert, T. (2020)	Cuando el dispositivo de investigación pone en escena lo investigado.	Praxis y Culturas Psi
+
+- Valencia, D.; Angelcos, N. (2020)	Urbanización neoliberal, tensiones y expectativas morales en la defensa del patrimonio: el caso del barrio Victoria, Santiago.	Revista de Urbanismo
+
 ## Books and Chapters
 
+- Angelcos, N. (2020)	Women Miners: Motherhood, Labor Integration, and Unionization. En	Ramm, A.; Gideon, J. (Eds.)	Motherhood, Social Policies and Women’s Activism in Latin America.	Palgrave, UK
+
+- Angelcos, N.; Doran, M. C. (2020)	Participación, conflicto y politización de los pobladores en Chile. En	Ruiz-Tagle, J.; Labbé, G.; Álvarez, M. (Eds.)	Marginalidad urbana y efectos institucionales.	IEUT-PUC/Ril editores, Santiago de Chile
+
+- Alé, S.; Duarte, K.; Miranda, D. (2020) Saltar el Torniquete: reflexiones de las juventudes de octubre.	Fondo de Cultura Económica, Chile. (BOOK)
+
+- Figueiredo, A., Rocha, C., Montagna, P.	(2020) Data Collection With Indigenous People: Fieldwork Experiences From Chile. En	Yasemin Gülsüm Acar, Sigrun Marie Moss, Özden Melis Uluğ (Eds.)	Researching Peace, Conflict, and Power in the Field: Methodological Challenges and Opportunities. Springer, Switzerland
+
+- Luengo, P., Jiménez-Moya, G., & González, R. (2020)	Youth Civic Engagement: Challenges for Social Cohesion in Latin America. En Gibbons, J.L.; Cumsille, P. (Eds.)	Latin American Perspectives on Psychology. 	American Psychology Association
+
+- Marambio, A. (2020)	Consumo, Trabajo, Deuda en Chile: el retail como ecosistema socioeconómico de las sociedades de consumo precarias. En Dettano, A. (Ed.)	El consumo en los entramados actuales.	Estudios Sociológicos, Buenos Aires, Argentina
+
+- Miranda, D.; Castillo, J.C.(2020)	Cambios en la participación política de los escolares. En	Alé, S.; Duarte, K.; Miranda, D. (Eds.) 	Saltar el Torniquete: reflexiones de las juventudes de octubre.	Fondo de cultura económica, Chile.
+
+- Miranda, D.; Castillo, J.C.; Miranda, C. & Conejeros, J. (In press)	Trust in political institutions and support for authoritarianism in Latin American students: Does civic knowledge make a difference?. En	Weinberg, A. (Ed.)	Handbook Pychology of Democracy.	Cambridge University Press, UK.
+
+- Sandoval-Hernández, A. & Miranda, D. (2020)	The landscape and recent developments of civic and citizenship education across the Latin American Region. En	Torney-Purta; Malak (Ed.)	EA book on perspectives on the civic studies. Springer, Cham.
+
 ## Interline Publications
+
+- Aguilera, C.; Angelcos, N.; Barozet , E.; Cabrera, A.; Espinoza, V.; Gutiérrez, F.; Jara, D.; Montero, V.; Rojas, M. (2020)	18/O: Personas comunes en movilizaciones extraordinarias.	Ciper académico
+
+- Aguilera, C.; Angelcos, N.; Barozet , E.; Cabrera, A.; Espinoza, V.; Gutiérrez, F.; Jara, D.; Montero, V.; Rojas, M. (2020)	La política de la calle de cara al plebiscito.	Ciper académico
+
+- Aguilera, C.; Angelcos, N.; Barozet , E.; Cabrera, A.; Espinoza, V.; Gutiérrez, F.; Jara, D.; Montero, V.; Rojas, M. (2020)	Las heterogéneas voces del Rechazo.	Ciper académico
+
+- Angelcos, N.; Bataglia, B.; Bueno, A.; Darmon, I.; Heiss, C.; Magnelli, A.; Roca, A.; Torres, F.; Torres, C. (2020)	COVID-19: Tiempos críticos en tiempos de pandemia.	Cuadernos de Teoría Social
+
+- Gerber, M.; Moya, C.; Castillo, A.; Orchard, M.; Puga, I.	(2020) Actuar colectivamente frente a la injusticia: el rol mediador de la legitimidad de las autoridades.	Revista Estudios de Psicología
+
+- Gutiérrez, F.; Alenda, S.; Angelcos, N. (2020)	Satisfacción y reconocimiento en ocupaciones precarias: el caso de los recolectores de basura en Chile.	Izquierdas
